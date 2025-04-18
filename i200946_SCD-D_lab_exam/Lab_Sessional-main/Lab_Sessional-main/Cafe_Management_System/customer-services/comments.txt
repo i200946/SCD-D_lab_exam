@@ -1,0 +1,1 @@
+adding the start command to the CMD because, it needs to start when it first gets build, as it needs to actually be usable.
